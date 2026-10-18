@@ -1,0 +1,8 @@
+name = "movie-portfolio"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "dist"
+
+# Set real values in the Cloudflare Pages dashboard
+# (Settings › Environment Variables)
+# or locally in .dev.vars (never commit that file)

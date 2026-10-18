@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+.dev.vars.example
+.env.example
+.env
+.env.local
+db/migrations/*.sql
+*.tsbuildinfo
+AGENTS.md
+CHANGELOG.md
+CLAUDE.md
+FLOW.md
+.gitnexus/
+.claude/
